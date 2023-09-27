@@ -1,0 +1,25 @@
+@startuml
+left to right direction
+
+package "Actors" {
+    actor "PDI" as PDI
+    actor "PAS" as PAS
+    actor "Students" as Students
+}
+package "Actions" {
+    usecase "Modify Schedules" as MS
+usecase "Register Students" as RS
+usecase "Propose Changes to schedule" as PC
+usecase "Verification of students" as VS
+usecase "Search class list" as CS
+
+}
+
+    PAS --> MS
+PAS --> RS
+PDI --> PC
+PDI --> RS
+RS --> VS
+RS --> CS
+}
+@enduml
