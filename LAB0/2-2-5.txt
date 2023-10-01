@@ -1,0 +1,61 @@
+@startuml
+left to right direction
+
+actor "Technician" as technician
+actor "Operator" as operator
+actor "Administrator" as administrator
+actor "Guest" as guest
+
+rectangle "Incident Managment System" {
+  usecase "Register incident" as registerIncident
+  usecase "Receive call (Technician)" as receiveCallTechnician
+  usecase "View data" as viewData
+  usecase "Create raport" as createRaport
+  usecase "View incidents" as viewIncidents
+  usecase "Request incident" as requestIncident
+  usecase "Edit incident" as editIncident
+  usecase "Mark duplicate" as markDuplicate
+  usecase "Receive call (Operator)" as receiveCallOperator
+  usecase "Insert data" as insertData
+  usecase "Manage categories" as manageCategories
+  usecase "Add comment" as addComment
+  usecase "Sort incidents" as sortIncidents
+  usecase "Register" as Register
+  usecase "View notifications" as viewNotifications
+  usecase "Add location" as addLocation
+  usecase "Add description" as addDescription
+  usecase "Add image" as addImage
+  }
+  
+  technician --|> registerIncident
+  technician --|> receiveCallTechnician 
+  receiveCallTechnician --|> viewData
+  technician --|> createRaport
+  technician --|> viewIncidents
+  technician --|> requestIncident
+  requestIncident --|> editIncident
+  
+  operator --|> registerIncident
+  operator --|> viewIncidents
+  operator --|>requestIncident
+  operator --|> markDuplicate
+  operator --|> requestIncident
+  operator --|> receiveCallOperator
+  receiveCallOperator --|> insertData
+  
+  administrator --|> viewIncidents
+  administrator --|> manageCategories
+  administrator --|> addComment
+  addComment --|> sortIncidents
+  
+  guest --|> Register
+  Register --|> viewNotifications
+  guest --|> addLocation
+  addLocation --|> addDescription
+  addDescription --|> addImage
+  addImage --|> registerIncident
+  
+
+
+
+@enduml

@@ -14,7 +14,7 @@
 
 
 
-<!-- tutaj zadanie 5 -->
+![Scenario5](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/diagram5.png)
 
 
 
