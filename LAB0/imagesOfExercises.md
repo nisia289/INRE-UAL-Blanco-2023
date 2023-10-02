@@ -1,6 +1,6 @@
 Scenario 1: Timetables
 
-![Scenario1](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/diagram1.png)
+![Scenario1](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/IMAGES/diagram1.png)
 
 
 
@@ -12,7 +12,7 @@ Scenario 2: Purchasing System
 
 
 Scenario 3: Hotel company 
-![Scenario3](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/theImageOfScenario3Hotel.png)
+![Scenario3](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/IMAGES/theImageOfScenario3Hotel.png)
 
 
 
