@@ -1,4 +1,4 @@
-<!-- tutaj zadanie 1 -->
+![Scenario1](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/diagram1.png)
 
 
 
