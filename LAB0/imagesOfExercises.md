@@ -4,8 +4,11 @@ Scenario 1: Timetables
 
 
 
+
 Scenario 2: Purchasing System 
 <!-- tutaj zadanie 2 -->
+
+
 
 
 Scenario 3: Hotel company 
@@ -13,7 +16,12 @@ Scenario 3: Hotel company
 
 
 
+
+
+Scenario 4: Online photography 
 <!-- tutaj zadanie 4 -->
+
+
 
 
 Scenario 5: Incident Management 
