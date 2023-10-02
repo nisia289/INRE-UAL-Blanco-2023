@@ -25,7 +25,7 @@ Scenario 4: Online photography
 
 
 Scenario 5: Incident Management 
-![Scenario5](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/PNG/diagram5.png)
+![Scenario5](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/IMAGES/diagram5.png)
 
 
 
