@@ -21,18 +21,22 @@ rectangle "Hotel Reservation System" {
   Commercial --> ConsultReservations 
   Commercial --> MakeOffers 
   Commercial --> ManageReservations
+  Commercial --> CheckAvailability
   Administrator --> ManageReservations
-  Administrator --> MakeOffers
+  Administrator --> MakeOffers 
   Administrator --> ManageRequests
-  Commercial --> RecalculatePrices
+  Commercial -> RecalculatePrices
   Commercial --> TemporaryBlock
   Customers --> CheckAvailability
   Administrator --> CheckAvailability
+  Administrator --> ViewOffers
   Commercial --> ViewOffers
   Customers --> ViewOffers
   SearchElements --> CheckAvailability
   SearchElements --> ViewOffers
   CheckAvailability --> DisplayCalendar
+  MakeOffers <|-- TemporaryBlock
+  MakeOffers <|-- RecalculatePrices
 }
 @enduml
 
