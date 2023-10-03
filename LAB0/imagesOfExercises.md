@@ -13,6 +13,7 @@ However, the functionality of registering students of the PDI, In addition to ve
 
 <!-- tutaj zadanie 2 -->
 
+<img width="719" alt="ex4" src="https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/81264277/cccfd6e5-59c0-45b2-88ba-a4a3bcb0d110">
 
 
 
@@ -30,8 +31,6 @@ However, the functionality of registering students of the PDI, In addition to ve
 
 <!-- tutaj zadanie 4 -->
 
-
-<img width="719" alt="ex4" src="https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/81264277/7791d479-84d3-4805-b953-4ca3d95db9c9">
 
 
 
