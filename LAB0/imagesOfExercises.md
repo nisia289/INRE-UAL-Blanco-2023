@@ -11,7 +11,7 @@ However, the functionality of registering students of the PDI, In addition to ve
 **Scenario 2: Purchasing System** 
 <br>In a purchasing system, there are four types of users: buyer, seller, Provider and administrator. Buyers can add products, check prices, Finalize the purchase and consult offers. Adding products involves marking those products as blocked. Sellers can also check offers and check prices. Suppliers can check prices, notify of new products and consult offers. Notifying of new products, exceptionally, makes the incorporation of an offer. Suppliers also have a functionality to notify the end of an offer. When The end of an offer is notified, the delete the offer functionality is executed. Both Provider's warn features have in common that it is responsible for sending a notification. Administrators can check prices, view offers, and delete products. The query pricing functionality includes a search functionality products which is similar to the functionality of querying buyers' products. Without However, the Query Products functionality adds functionality to verify the availability. To make a sale, a buyer and a seller participate in a joint. In such an operation, the agreement of a price is carried out; exceptionally During the sale, the sales history will be consulted.
 
-<!-- tutaj zadanie 2 -->
+
 
 <img width="719" alt="ex4" src="https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/81264277/cccfd6e5-59c0-45b2-88ba-a4a3bcb0d110">
 
@@ -20,7 +20,7 @@ However, the functionality of registering students of the PDI, In addition to ve
 **Scenario 3: Hotel company** 
 <br>In a hotel company, the manager and the commercial can consult reservations. The Commercial makes offers and manages new reservations. The administrator manages new requests and also makes offers. The making of offers by the commercial It involves a recalculation of prices. In addition, such making offers entails optionally the temporary blocking of a reservation. Customers, administrators and Commercial can check availability and view offers. The consultation of Availabilities and booking queries have the common functionality of searching elements. On the other hand, the availability query entails a functionality that displays a calendar.
 
-![Scenario3](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/IMAGES/theImageOfScenario3Hotel.png)
+![Scenario3](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/IMAGES/betterScenario3Hotel-image.png)
 
 
 
