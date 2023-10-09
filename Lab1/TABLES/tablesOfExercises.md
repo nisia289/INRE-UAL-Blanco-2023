@@ -21,6 +21,18 @@
 | Flujo Normal      | 1. PDI staff register students. 2. PAS staff register students. 3. Verification of the students data. |
 | Flujo Alternatico | 3. If there is a problem with the verification, check in the students registration system.            |
 | Poscondiciones    | The verification has been performed.                                                                  |
+
+
+| Nombre            | Search Class List                                                                                    |
+|-------------------|------------------------------------------------------------------------------------------------------|
+| Autor             | Karolina Malik                                                                                       |
+| Fecha             | 4.10.2023                                                                                            |
+| Descripción       | This use case allows PDI staff to search for students in lass lists during the registration process. |
+| Actores           | PDI staff                                                                                            |
+| Precondiciones    | Existing class list to search through.                                                               |
+| Flujo Normal      | 1. PDI staff access the class list. 2. PDI staff searches the class list.                            |
+| Flujo Alternatico | ----                                                                                                 |
+| Poscondiciones    | The Class List Search has been performed.                                                            |
 <!--Scenario 2-->
 
 
