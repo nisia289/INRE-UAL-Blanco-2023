@@ -11,7 +11,16 @@
 | Poscondiciones    | The schedule has been checked.                                                                                                                                                                                                           |
 
 
-
+| Nombre            | Verification of Students                                                                              |
+|-------------------|-------------------------------------------------------------------------------------------------------|
+| Autor             | Karolina Malik                                                                                        |
+| Fecha             | 4.10.2023                                                                                             |
+| Descripción       | This use case involves verifying student data during registration process for both PAS and PDI staff. |
+| Actores           | PDI staff, PAS staff                                                                                  |
+| Precondiciones    | Before verification we need the student data to verify.                                               |
+| Flujo Normal      | 1. PDI staff register students. 2. PAS staff register students. 3. Verification of the students data. |
+| Flujo Alternatico | 3. If there is a problem with the verification, check in the students registration system.            |
+| Poscondiciones    | The verification has been performed.                                                                  |
 <!--Scenario 2-->
 
 
