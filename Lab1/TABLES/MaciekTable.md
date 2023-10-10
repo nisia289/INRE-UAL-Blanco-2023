@@ -32,3 +32,14 @@
 | Flujo Normal      | 1.	Buyer makes action to finalize the purchase 2.	Buyer pays for product 3.	Product is sent to buyer 4.	Transaction is closed                                                                                                                           | 
 | Flujo Alternatico | 3.If there was a payment issue transaction can be done once again                                          |
 | Poscondiciones    | Buyer finalize the purchase and pay for a product                                                          |
+
+| Nombre            | Making sales                                                                                               |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Maciej Ignatowicz                                                                                          |
+| Fecha             | 09.10.2023                                                                                                 |
+| Descripción       | Buyers same as sellers can making sale offers in the system                                                |
+| Actores           | Buyer, Seller                                                                                              |
+| Precondiciones    | Buyer and seller must be registered and verified in a system                                               |
+| Flujo Normal      | 1.	Buyer or Seller select product type 2.	Buyer or Seller fill the data form 3.	Buyer or Seller upload picture of the product 4.	Offer is put into the system                                                                                         |
+| Flujo Alternatico | 4. If creating offer wasn’t successfull, procedure can be done once again                                  |
+| Poscondiciones    | Offer is visible for each user in the system                                                               |
