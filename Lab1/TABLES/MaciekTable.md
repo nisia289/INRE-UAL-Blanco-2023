@@ -8,3 +8,15 @@
 | Flujo Normal      | 1.	Actor adds a product to his basket in the system  2.	Product is added to the basket  3.	Product is blocked to other user                                                                                                           |
 | Flujo Alternatico | ----                                                                                                                                                                                                                                     |
 | Poscondiciones    | Product is added to buyer’s basket and blocked to other users                                                                                                                                                                            |
+
+
+| Nombre            | Consulting prices                                                                                          |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Maciej Ignatowicz                                                                                          |
+| Fecha             | 4.10.2023                                                                                                  |
+| Descripción       | Buyer can consult product prices                                                                           |
+| Actores           | Buyer                                                                                                      |
+| Precondiciones    | Buyer must be registered in a system                                                                       |
+| Flujo Normal      | 1.	Actor checks the offer in a system 2.	Actor sends request 3.	Request is accepted 4.	Price is changed |
+| Flujo Alternatico | 3.If there is no agreement with changing the price, it doesn’t change                                      |
+| Poscondiciones    | Price is changed reggarding to buyer’s request                                                             |
