@@ -91,4 +91,15 @@
 | Flujo Alternatico | 2.If supplier does not have access to offer, he can’t delete it                                            |
 | Poscondiciones    | Offer is deleted from the system                                                                           |
 
+| Nombre            | Notifycating of new products                                                                               |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Maciej Ignatowicz                                                                                          |
+| Fecha             | 09.10.2023                                                                                                 |
+| Descripción       | Supplier can notificate the new products in the system                                                     |
+| Actores           | Supplier                                                                                                   |
+| Precondiciones    | Supplier must be registered and verified in a system                                                       |
+| Flujo Normal      | 1.	Actor runs the system 2.	Actor selects the product type 3.	Actor fills the data form 4.	Actor adds new product to the system 5.	Notification about new product is sent                                                                             |
+| Flujo Alternatico | ----                                                                                                       |
+| Poscondiciones    | Notification is visible in the system                                                                           |
+
 
