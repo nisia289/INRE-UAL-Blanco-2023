@@ -144,7 +144,7 @@
 |-------------------|------------------------------------------------------------------------------------------------------------|
 | Autor             | Maciej Ignatowicz                                                                                          |
 | Fecha             | 09.10.2023                                                                                                 |
-| Descripción       |                                                                                                            |
+| Descripción       | Buyers, Sellers and Suppliers can check offers from offers list                                                                                                           |
 | Actores           | Buyer, Seller, Supplier                                                                                    |
 | Precondiciones    | Buyers, Sellers and Suppliers can check offers from offers list                                            |
 | Flujo Normal      | 1.	Actor runs the application 2.	Actor can filter offers using different options 3.	Products list displayes to the actor|
