@@ -55,3 +55,26 @@
 | Flujo Normal      | 1.	Actor search for a product in a system 2.	Actor selects one of available products 3.	Product’s price displayes on the screen                                                                                                                           |
 | Flujo Alternatico | ----                                  |
 | Poscondiciones    | Price is visible after enter the offer details                                                             |
+
+
+| Nombre            | Checking offers                                                                                            |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Maciej Ignatowicz                                                                                          |
+| Fecha             | 09.10.2023                                                                                                 |
+| Descripción       |                                                                                                            |
+| Actores           | Buyer, Seller, Supplier                                                                                    |
+| Precondiciones    | Buyers, Sellers and Suppliers can check offers from offers list                                            |
+| Flujo Normal      | 1.	Actor runs the application 2.	Actor can filter offers using different options 3.	Products list displayes to the actor|
+| Flujo Alternatico | 4. If creating offer wasn’t successfull, procedure can be done once again                                  |
+| Poscondiciones    | Offer is visible for each user in the system                                                               |
+
+| Nombre            | Notifycating the end of an offer                                                                           |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Maciej Ignatowicz                                                                                          |
+| Fecha             | 09.10.2023                                                                                                 |
+| Descripción       | Supplier can notificate the end of an offer before deleting it                                             |
+| Actores           | Supplier                                                                                                   |
+| Precondiciones    | Supplier must be registered and verified in a system                                                       |
+| Flujo Normal      | 1.	Actor checks the offer 2.	Actor selects reason about ending the offer 3.	Actor sends notification about ending the offer                                                                                                                            |
+| Flujo Alternatico | If supplier does not have access to the offer, he can’t send a notification                                |
+| Poscondiciones    | Notification is visible in the system                                                                      |
