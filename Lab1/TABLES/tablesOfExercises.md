@@ -71,7 +71,9 @@
 | Flujo Alternatico | 6. If the system detects conflicts or errors in the proposed schedule modifications, it notifies the PAS staff.                     |
 | Poscondiciones    | The schedule has been modified.                                                                                                                                                                                                           |
 
-<!--Scenario 2-->
+
+
+**Scenario 2: Purchasing System**
 
 
 
