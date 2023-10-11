@@ -79,6 +79,8 @@
 
 **Scenario 2: Purchasing System**
 
+<img width="719" alt="ex4" src="https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/81264277/cccfd6e5-59c0-45b2-88ba-a4a3bcb0d110">
+
 | Nombre            | Adding product to a basket in purchasing system                                                                                                                                                                                          |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Autor             | Maciej Ignatowicz                                                                                                                                                                                                                        |
