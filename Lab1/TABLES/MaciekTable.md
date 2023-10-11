@@ -43,3 +43,15 @@
 | Flujo Normal      | 1.	Buyer or Seller select product type 2.	Buyer or Seller fill the data form 3.	Buyer or Seller upload picture of the product 4.	Offer is put into the system                                                                                         |
 | Flujo Alternatico | 4. If creating offer wasn’t successfull, procedure can be done once again                                  |
 | Poscondiciones    | Offer is visible for each user in the system                                                               |
+
+
+| Nombre            | Checking prices                                                                                            |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Maciej Ignatowicz                                                                                          |
+| Fecha             | 09.10.2023                                                                                                 |
+| Descripción       | Buyers, Sellers and Suppliers can check offer prices                                                       |
+| Actores           | Buyer, Seller                                                                                              |
+| Precondiciones    | Buyer and seller must be registered and verified in a system                                               |
+| Flujo Normal      | 1.	Actor search for a product in a system 2.	Actor selects one of available products 3.	Product’s price displayes on the screen                                                                                                                           |
+| Flujo Alternatico | ----                                  |
+| Poscondiciones    | Price is visible after enter the offer details                                                             |
