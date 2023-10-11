@@ -209,3 +209,26 @@
 | Flujo Alternatico | ----                                                                                                       |
 | Poscondiciones    | Product is deleted from the offer                                                                          |
 
+
+| Nombre            | Query offers                                                                                               |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Maciej Ignatowicz                                                                                          |
+| Fecha             | 11.10.2023                                                                                                 |
+| Descripción       | Administrator can query specific offers                                                                    |
+| Actores           | Administrator                                                                                              |
+| Precondiciones    | User must be logged in as an administrator in the system                                                   |
+| Flujo Normal      | 1.	Administrator displays the products list 2.	Administrator query offers using specific options          |
+| Flujo Alternatico | ----                                                                                                       |
+| Poscondiciones    | Query is completed                                                                                         |
+
+
+| Nombre            | Query prices                                                                                               |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Maciej Ignatowicz                                                                                          |
+| Fecha             | 11.10.2023                                                                                                 |
+| Descripción       | Administrator can query prices of the products                                                             |
+| Actores           | Administrator                                                                                              |
+| Precondiciones    | User must be logged in as an administrator in the system                                                   |
+| Flujo Normal      | 1.	Administrator displays the products list 2.	Administrator executes the query using specific options    |
+| Flujo Alternatico | ----                                                                                                       |
+| Poscondiciones    | Query is completed                                                                                         |
