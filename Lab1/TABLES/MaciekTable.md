@@ -103,3 +103,27 @@
 | Poscondiciones    | Notification is visible in the system                                                                           |
 
 
+| Nombre            | Deleting the product                                                                                       |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Maciej Ignatowicz                                                                                          |
+| Fecha             | 11.10.2023                                                                                                 |
+| Descripción       | Administrator can delete products from specific offer                                                      |
+| Actores           | Administrator                                                                                              |
+| Precondiciones    | User must be logged in as an administrator in the system                                                   |
+| Flujo Normal      | 1.	Administrator displays the products list 2.	Administrator checks the offer from products list 3.	Administrator checks the specific product 4.	Administrator deletes the product                                                                        |
+| Flujo Alternatico | ----                                                                                                       |
+| Poscondiciones    | Product is deleted from the offer                                                                          |
+
+
+| Nombre            | Deleting the product                                                                                       |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Maciej Ignatowicz                                                                                          |
+| Fecha             | 11.10.2023                                                                                                 |
+| Descripción       | Administrator can delete products from specific offer                                                      |
+| Actores           | Administrator                                                                                              |
+| Precondiciones    | User must be logged in as an administrator in the system                                                   |
+| Flujo Normal      | 1.	Administrator displays the products list 2.	Administrator checks the offer from products list 3.	Administrator checks the specific product 4.	Administrator deletes the product                                                                        |
+| Flujo Alternatico | ----                                                                                                       |
+| Poscondiciones    | Product is deleted from the offer                                                                          |
+
+
