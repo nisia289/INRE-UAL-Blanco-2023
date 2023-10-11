@@ -73,6 +73,8 @@
 
 
 
+
+
 **Scenario 2: Purchasing System**
 
 | Nombre            | Adding product to a basket in purchasing system                                                                                                                                                                                          |
