@@ -90,3 +90,5 @@
 | Flujo Normal      | 1.	Actor selects the offer from offers list 2.	Actor deletes the offer 3.	Offer is deleted from the list |
 | Flujo Alternatico | 2.If supplier does not have access to offer, he can’t delete it                                            |
 | Poscondiciones    | Offer is deleted from the system                                                                           |
+
+
