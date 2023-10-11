@@ -78,3 +78,15 @@
 | Flujo Normal      | 1.	Actor checks the offer 2.	Actor selects reason about ending the offer 3.	Actor sends notification about ending the offer                                                                                                                            |
 | Flujo Alternatico | If supplier does not have access to the offer, he can’t send a notification                                |
 | Poscondiciones    | Notification is visible in the system                                                                      |
+
+
+| Nombre            | Deleting the offer                                                                                         |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Maciej Ignatowicz                                                                                          |
+| Fecha             | 09.10.2023                                                                                                 |
+| Descripción       | Supplier can delete offer from the system                                                                  |
+| Actores           | Supplier                                                                                                   |
+| Precondiciones    | Supplier must be registered in a system                                                                    |
+| Flujo Normal      | 1.	Actor selects the offer from offers list 2.	Actor deletes the offer 3.	Offer is deleted from the list |
+| Flujo Alternatico | 2.If supplier does not have access to offer, he can’t delete it                                            |
+| Poscondiciones    | Offer is deleted from the system                                                                           |
