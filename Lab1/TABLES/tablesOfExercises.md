@@ -136,7 +136,7 @@
 | Actores           | Buyer, Seller                                                                                              |
 | Precondiciones    | Buyer and seller must be registered and verified in a system                                               |
 | Flujo Normal      | 1.	Actor search for a product in a system 2.	Actor selects one of available products 3.	Product’s price displayes on the screen                                                                                                                           |
-| Flujo Alternatico | ----                                  |
+| Flujo Alternativo | ----                                  |
 | Poscondiciones    | Price is visible after enter the offer details                                                             |
 
 
@@ -148,7 +148,7 @@
 | Actores           | Buyer, Seller, Supplier                                                                                    |
 | Precondiciones    | Buyers, Sellers and Suppliers can check offers from offers list                                            |
 | Flujo Normal      | 1.	Actor runs the application 2.	Actor can filter offers using different options 3.	Products list displayes to the actor|
-| Flujo Alternatico | 4. If creating offer wasn’t successfull, procedure can be done once again                                  |
+| Flujo Alternativo | 4. If creating offer wasn’t successfull, procedure can be done once again                                  |
 | Poscondiciones    | Offer is visible for each user in the system                                                               |
 
 | Nombre            | Notifycating the end of an offer                                                                           |
@@ -159,7 +159,7 @@
 | Actores           | Supplier                                                                                                   |
 | Precondiciones    | Supplier must be registered and verified in a system                                                       |
 | Flujo Normal      | 1.	Actor checks the offer 2.	Actor selects reason about ending the offer 3.	Actor sends notification about ending the offer                                                                                                                            |
-| Flujo Alternatico | If supplier does not have access to the offer, he can’t send a notification                                |
+| Flujo Alternativo | If supplier does not have access to the offer, he can’t send a notification                                |
 | Poscondiciones    | Notification is visible in the system                                                                      |
 
 
@@ -171,7 +171,7 @@
 | Actores           | Supplier                                                                                                   |
 | Precondiciones    | Supplier must be registered in a system                                                                    |
 | Flujo Normal      | 1.	Actor selects the offer from offers list 2.	Actor deletes the offer 3.	Offer is deleted from the list |
-| Flujo Alternatico | 2.If supplier does not have access to offer, he can’t delete it                                            |
+| Flujo Alternativo | 2.If supplier does not have access to offer, he can’t delete it                                            |
 | Poscondiciones    | Offer is deleted from the system                                                                           |
 
 | Nombre            | Notifycating of new products                                                                               |
@@ -182,7 +182,7 @@
 | Actores           | Supplier                                                                                                   |
 | Precondiciones    | Supplier must be registered and verified in a system                                                       |
 | Flujo Normal      | 1.	Actor runs the system 2.	Actor selects the product type 3.	Actor fills the data form 4.	Actor adds new product to the system 5.	Notification about new product is sent                                                                             |
-| Flujo Alternatico | ----                                                                                                       |
+| Flujo Alternativo | ----                                                                                                       |
 | Poscondiciones    | Notification is visible in the system                                                                           |
 
 
@@ -194,7 +194,7 @@
 | Actores           | Administrator                                                                                              |
 | Precondiciones    | User must be logged in as an administrator in the system                                                   |
 | Flujo Normal      | 1.	Administrator displays the products list 2.	Administrator checks the offer from products list 3.	Administrator checks the specific product 4.	Administrator deletes the product                                                                        |
-| Flujo Alternatico | ----                                                                                                       |
+| Flujo Alternativo | ----                                                                                                       |
 | Poscondiciones    | Product is deleted from the offer                                                                          |
 
 
@@ -206,7 +206,7 @@
 | Actores           | Administrator                                                                                              |
 | Precondiciones    | User must be logged in as an administrator in the system                                                   |
 | Flujo Normal      | 1.	Administrator displays the products list 2.	Administrator checks the offer from products list 3.	Administrator checks the specific product 4.	Administrator deletes the product                                                                        |
-| Flujo Alternatico | ----                                                                                                       |
+| Flujo Alternativo | ----                                                                                                       |
 | Poscondiciones    | Product is deleted from the offer                                                                          |
 
 
@@ -218,7 +218,7 @@
 | Actores           | Administrator                                                                                              |
 | Precondiciones    | User must be logged in as an administrator in the system                                                   |
 | Flujo Normal      | 1.	Administrator displays the products list 2.	Administrator query offers using specific options          |
-| Flujo Alternatico | ----                                                                                                       |
+| Flujo Alternativo | ----                                                                                                       |
 | Poscondiciones    | Query is completed                                                                                         |
 
 
@@ -230,5 +230,147 @@
 | Actores           | Administrator                                                                                              |
 | Precondiciones    | User must be logged in as an administrator in the system                                                   |
 | Flujo Normal      | 1.	Administrator displays the products list 2.	Administrator executes the query using specific options    |
-| Flujo Alternatico | ----                                                                                                       |
+| Flujo Alternativo | ----                                                                                                       |
 | Poscondiciones    | Query is completed                                                                                         |
+
+
+**Scenario 3: Hotel Company**
+
+![Scenario3](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/IMAGES/newHotel.png)
+
+
+| Nombre            | Consult Reservations in Hotel Reservation System                                                           |                                                        |-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Anita Jurkowska                                                                                            |                                                        | Fecha             | 4.10.2023                                                                                                  |                                                        
+| Descripción       | The system should allow the manager and the commercial to consult reservations.                            |                                                        | Actores           | Commercial / Manager                                                                                       |                                                        | Precondiciones    | Commercial and manager must be registered in a system                                                      |
+| Flujo Normal      | 1. Manager or Commercial select "Consult Reservations" option 2. System displays a list of reservations.   |                                                        
+| Flujo Alternatico | None                                                                                                       |                                          
+| Poscondiciones    | None                                                                                                       |
+
+
+| Nombre            | Manage New Reservations                                                                                    |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Anita Jurkowska                                                                                            |
+| Fecha             | 4.10.2023                                                                                                  |
+| Descripción       | The system should allow the Commercial and Administrator to manage new reservations.                       |                                             
+| Actores           | Commercial / Administrator                                                                                 |                  
+| Precondiciones    | Commercial and administrator must be registered in a system.                                               |                        
+| Flujo Normal      | 1. Commercial or Administrator selects "Manage New Reservations." 2. System provides options for creating, modifying or canceling reservations.                                                                                        |                                    
+| Flujo Alternativo | None                                                                                                       |
+| Poscondiciones    | None                                                                                                       |
+
+
+| Nombre            | Make Offers                                                                                                |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Anita Jurkowska                                                                                            |
+| Fecha             | 4.10.2023                                                                                                  |
+| Descripción       | The system should enable the Commercial and Administrator to make offers, involving price recalculation and optional temporary blocking of reservations.                                                                           |
+| Actores           | Commercial / Administrator                                                                                 |
+| Precondiciones    | Commercial and administrator must be registered in a system.                                               |
+| Flujo Normal      | 1. Commercial or Administrator selects "Make Offers." 2. System calculates new prices. 3. He may optionally block a reservation. 4. He creates and submits offers. 
+                                            |
+| Flujo Alternativo | If Commercial/Administrator blocks a reservation, the reservation remains temporarily blocked.             |                                       
+| Poscondiciones    | None                                                                                                       |
+
+
+| Nombre            |  Manage New Requests                                                                                       |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Anita Jurkowska                                                                                            |
+| Fecha             | 09.10.2023                                                                                                 |
+| Descripción       | The system should allow the Administrator to manage new requests                                           |
+| Actores           | Administrator                                                                                              |
+| Precondiciones    | Administrator must be registered in a system                                                               |
+| Flujo Normal      | 1. Administrator selects "Manage New Requests." 2. Administrator creates or modifies requests.             |
+| Flujo Alternativo | None                                                                                                       |
+| Poscondiciones    | None                                                                                                       |
+
+
+| Nombre            |  Search elements                                                                                           |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Anita Jurkowska                                                                                            |
+| Fecha             | 09.10.2023                                                                                                 |
+| Descripción       | The consultation of Availabilities and booking queries have the common functionality of searching elements. The system should provide a common search functionality for both Availability Queries and Booking Queries. |
+| Actores           | None                                                                                                       |
+| Precondiciones    | None                                                                                                       |
+| Flujo Normal      | 1. The system displays a search interface. 2.Actor enters search criteria (e.g., date, room type, number of guests). 3.The system searches the database for matching elements. 4.The system displays search results based on the entered criteria.                                           |
+| Flujo Alternativo | None                                                                                                       |
+| Poscondiciones    | The system presents search results to the user based on the provided criteria. For Availability Queries, the system displays available options, which may include a calendar view. For Booking Queries, the system provides booking-related information.                                             |
+
+
+| Nombre            | Recalculate prices                                                                                         |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Anita Jurkowska                                                                                            |
+| Fecha             | 09.10.2023                                                                                                 |
+| Descripción       | Recalculation of prices is involved by making of offers by the commercial.                                 |
+| Actores           | Commercial                                                                                                 |
+| Precondiciones    | The Commercial is logged into the system.                                                                  |
+| Flujo Normal      | 1. Commercial selects "Make Offers." 2. The system presents an interface for creating new offers. 3. Commercial enters the offer details, including room type, date, and any relevant pricing information. 4. The system recalculates the offer prices based on the entered details. 5. Commercial reviews and confirms the offer. 6. The system stores the offer in the database.                                                                                         |
+| Flujo Alternativo | None                                                                                                       |
+| Poscondiciones    | -The system has recorded the new offer in the database.-The recalculated prices for the offer are saved.-The offer is now available for viewing by customers and administrators.-If the Commercial chose to block a reservation as part of the offer, that reservation is temporarily blocked until the offer is accepted or rejected.                                                               |
+
+
+| Nombre            |  Temporary block reservation                                                                               |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Anita Jurkowska                                                                                            |
+| Fecha             | 09.10.2023                                                                                                 |
+| Descripción       | Making offers by the commercial entails optionally the temporary blocking of a reservation. The system should allow the Commercial to optionally block a reservation when making an offer. |
+| Actores           | Commercial                                                                                                 |
+| Precondiciones    | The Commercial is logged into the system.                                                                  |
+| Flujo Normal      | 1. As part of the process of making an offer, the Commercial selects the option to "Block Reservation." 2. The system identifies the reservation that corresponds to the offer being made. 3. The system temporarily blocks the identified reservation, ensuring it is not available for booking by others during the offer creation process. 4.Commercial completes the offer creation process.                                                                                         |
+| Flujo Alternativo | None                                                                                                       |
+| Poscondiciones    | If the Commercial chose to block a reservation, that specific reservation is temporarily unavailable for booking by other customers during the offer creation process. The offer is created and stored in the system. The system provides information about the temporarily blocked reservation's status.     |
+
+
+| Nombre            |  Check Availability                                                                                        |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Anita Jurkowska                                                                                            |
+| Fecha             | 09.10.2023                                                                                                 |
+| Descripción       | The system should allow Customers, Administrators, and Commercial to check availability.                   |
+| Actores           | Customers, Administrator, Commercial                                                                       |
+| Precondiciones    | None                                                                                                       |
+| Flujo Normal      | 1. Actor selects "Check Availability." 2. The system provides a search interface. 3. Actor enters search criteria, such as date, room type, and number of guests.
+4. The system searches for available options based on the criteria. 5. The system displays search results. |
+| Flujo Alternativo | None                                                                                                       |
+| Poscondiciones    | 1. For Availability Queries, the system presents search results based on the provided criteria, showing available options. 2.For Booking Queries, the system provides information about available offers. 3.The results are displayed to the actor.                                           |
+
+
+| Nombre            |  View Offers                                                                                               |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Anita Jurkowska                                                                                            |
+| Fecha             | 09.10.2023                                                                                                 |
+| Descripción       | The system should allow Customers, Administrators, and Commercial to view offers.                          |
+| Actores           | Customers, Administrators, Commercial                                                                      |
+| Precondiciones    |              idk                                                                                           |
+| Flujo Normal      | 1. Actor selects "View Offers" 2. The system displays offers.                                              |                                          
+| Flujo Alternatico | …                                                                                                          |
+| Poscondiciones    |                                                                                                            |
+
+
+
+| Nombre            |  Display Calendar                                                                                          |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Anita Jurkowska                                                                                            |
+| Fecha             | 09.10.2023                                                                                                 |
+| Descripción       | The system should provide a calendar display as part of the Availability Query functionality.              |
+| Actores           | Customers, Administrators, Commercial                                                                      |
+| Precondiciones    | None                                                                                                       |
+| Flujo Normal      | 1. Actor selects "Check Availability." 2.The system provides a search interface that includes a calendar option.
+3. Actor selects the calendar view. 4. The system displays a calendar showing available dates and room availability for the selected date range.                                                                                        |
+| Flujo Alternatico | None                                                                                                       |
+| Poscondiciones    | The system displays a calendar view with availability information for the specified date range.
+The actor can view and select dates with available options.                                                                      |
+
+
+**Scenario 4: Online photography**
+![image](https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/146172835/bdaa0bdd-7132-499b-b962-eca6e4bbe658)
+
+
+
+
+
+
+
+
+
+**Scenario 5: Incident Management**
+![Scenario5](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/IMAGES/diagram5.png)
+
