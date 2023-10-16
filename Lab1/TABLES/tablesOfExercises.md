@@ -243,7 +243,7 @@
 | Autor             | Anita Jurkowska                                                                                            |                                                        | Fecha             | 4.10.2023                                                                                                  |                                                        
 | Descripción       | The system should allow the manager and the commercial to consult reservations.                            |                                                        | Actores           | Commercial / Manager                                                                                       |                                                        | Precondiciones    | Commercial and manager must be registered in a system                                                      |
 | Flujo Normal      | 1. Manager or Commercial select "Consult Reservations" option 2. System displays a list of reservations.   |                                                        
-| Flujo Alternatico | None                                                                                                       |                                          
+| Flujo Alternativo | None                                                                                                       |                                          
 | Poscondiciones    | None                                                                                                       |
 
 
@@ -341,7 +341,7 @@
 | Actores           | Customers, Administrators, Commercial                                                                      |
 | Precondiciones    |              idk                                                                                           |
 | Flujo Normal      | 1. Actor selects "View Offers" 2. The system displays offers.                                              |                                          
-| Flujo Alternatico | …                                                                                                          |
+| Flujo Alternativo | …                                                                                                          |
 | Poscondiciones    |                                                                                                            |
 
 
@@ -355,7 +355,7 @@
 | Precondiciones    | None                                                                                                       |
 | Flujo Normal      | 1. Actor selects "Check Availability." 2.The system provides a search interface that includes a calendar option.
 3. Actor selects the calendar view. 4. The system displays a calendar showing available dates and room availability for the selected date range.                                                                                        |
-| Flujo Alternatico | None                                                                                                       |
+| Flujo Alternativo | None                                                                                                       |
 | Poscondiciones    | The system displays a calendar view with availability information for the specified date range.
 The actor can view and select dates with available options.                                                                      |
 
