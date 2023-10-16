@@ -360,17 +360,5 @@
 The actor can view and select dates with available options.                                                                      |
 
 
-**Scenario 4: Online photography**
-![image](https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/146172835/bdaa0bdd-7132-499b-b962-eca6e4bbe658)
 
-
-
-
-
-
-
-
-
-**Scenario 5: Incident Management**
-![Scenario5](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/IMAGES/diagram5.png)
 
