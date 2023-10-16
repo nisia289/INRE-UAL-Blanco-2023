@@ -14,6 +14,17 @@
 | Flujo Alternatico | 6. If there's a problem with accessing the schedule, right people should be contacted                                                                                                                                                    |
 | Poscondiciones    | The schedule has been checked.                                                                                                                                                                                                           |
 
+| INF-01            | Check Schedule                                                       |
+|-------------------|----------------------------------------------------------------------|
+| Versión           | 1.0 (Octubre 2023)                                                   |
+| Autores           | Karolina Malik                                                       |
+| Fuentes           | Schedule                                                             |
+| Referencias       | ----                                                                 |
+| Descripción       | The system allows for checking the schedule.                         |
+| Datos específicos | 1. Student name. 2. Term.                                            |
+| Importancia       | Important                                                            |
+| Estado            | Accepted                                                             |
+| Comentarios       | Students, PDI staff and PAS staff are allowed to check the schedule. |
 
 | Nombre            | Verification of Students                                                                              |
 |-------------------|-------------------------------------------------------------------------------------------------------|
@@ -62,6 +73,19 @@
 | Flujo Alternatico | 6. 6a. If the data is not correct or incomplete, the system notifies the staff member, allowing them to correct it.|
 | Poscondiciones    | The student has been registered                                                                                                                                                                                                           |
 
+
+| INF-01            | Register Students                                                                    |
+|-------------------|--------------------------------------------------------------------------------------|
+| Versión           | 1.0 (Octubre 2023)                                                                   |
+| Autores           | Karolina Malik                                                                       |
+| Fuentes           | Registration list                                                                    |
+| Referencias       | ----                                                                                 |
+| Descripción       | The system must store information about the list of registered students for classes. |
+| Datos específicos | 1. Name 2. Surname 3. ID number 4. Student email 5. Subject code                     |
+| Importancia       | Very important                                                                       |
+| Estado            | Accepted                                                                             |
+| Comentarios       | ----                                                                                 |
+
 | Nombre            | Modify Schedules                                                                                                                                                                                                                          |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Autor             | Emilia Sobolewska                                                                                                                                                                                                                           |
@@ -73,6 +97,17 @@
 | Flujo Alternatico | 6. If the system detects conflicts or errors in the proposed schedule modifications, it notifies the PAS staff.                     |
 | Poscondiciones    | The schedule has been modified.                                                                                                                                                                                                           |
 
+| INF-01            | Modify Schedule                                                                                   |
+|-------------------|---------------------------------------------------------------------------------------------------|
+| Versión           | 1.0 (Octubre 2023)                                                                                |
+| Autores           | Emilia Sobolewska                                                                                 |
+| Fuentes           | Schedule                                                                                          |
+| Referencias       | ----                                                                                              |
+| Descripción       | The system allows for schedule modification.                                                      |
+| Datos específicos | 1. Subject code. 2. Date and time of the subject. 3. Class capacity. 4. Classroom. 5. Professor.  |
+| Importancia       | Very important                                                                                    |
+| Estado            | Accepted                                                                                          |
+| Comentarios       | Later this user case is used by the students for checking their schedule.                         |
 
 
 
