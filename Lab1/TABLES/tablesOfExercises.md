@@ -128,6 +128,28 @@
 | Poscondiciones    | Product is added to buyer’s basket and blocked to other users                                                                                                                                                                            |
 
 
+
+| INF-01            | Add product to a basket                                                                           |
+|-------------------|---------------------------------------------------------------------------------------------------|
+| Versión           | 1.0 (Octubre 2023)                                                                                |
+| Autores           | Maciej Ignatowicz                                                                                 |
+| Fuentes           | Basket                                                                                            |
+| Referencias       | ----                                                                                              |
+| Descripción       | Products can be added to user's basket                                                            |
+| Datos específicos | 1. UserID 2. ProductID 3. BasketID 4.ProductStatus (blocked or not)                               |
+| Importancia       | Very important                                                                                    |
+| Estado            | Accepted                                                                                          |
+| Comentarios       | ---                                                                                               |
+
+
+
+
+
+
+
+
+
+
 | Nombre            | Consulting prices                                                                                          |
 |-------------------|------------------------------------------------------------------------------------------------------------|
 | Autor             | Maciej Ignatowicz                                                                                          |
@@ -150,6 +172,25 @@
 | Flujo Normal      | 1.	Buyer makes action to finalize the purchase 2.	Buyer pays for product 3.	Product is sent to buyer 4.	Transaction is closed                                                                                                                           | 
 | Flujo Alternativo | 3.If there was a payment issue transaction can be done once again                                          |
 | Poscondiciones    | Buyer finalize the purchase and pay for a product                                                          |
+
+
+
+| INF-02            | Finalize transaction                                                                              |
+|-------------------|---------------------------------------------------------------------------------------------------|
+| Versión           | 1.0 (Octubre 2023)                                                                                |
+| Autores           | Maciej Ignatowicz                                                                                 |
+| Fuentes           | Transactions list                                                                                 |
+| Referencias       | ----                                                                                              |
+| Descripción       | User can finalize the transaction                                                                 |
+| Datos específicos | 1. UserID 2. Product ID 3. Payment amount 4. Delivery address 5. Transactions status              |
+| Importancia       | Very important                                                                                    |
+| Estado            | Accepted                                                                                          |
+| Comentarios       | ---                                                                                               |
+
+
+
+
+
 
 | Nombre            | Making sales                                                                                               |
 |-------------------|------------------------------------------------------------------------------------------------------------|
@@ -196,6 +237,21 @@
 | Flujo Normal      | 1.	Actor checks the offer 2.	Actor selects reason about ending the offer 3.	Actor sends notification about ending the offer                                                                                                                            |
 | Flujo Alternativo | If supplier does not have access to the offer, he can’t send a notification                                |
 | Poscondiciones    | Notification is visible in the system                                                                      |
+
+
+
+
+| INF-03            | Notifycating the offer or product                                                                 |
+|-------------------|---------------------------------------------------------------------------------------------------|
+| Versión           | 1.0 (Octubre 2023)                                                                                |
+| Autores           | Maciej Ignatowicz                                                                                 |
+| Fuentes           | Notifications list                                                                                |
+| Referencias       | ----                                                                                              |
+| Descripción       | Notifications can be saved and created                                                            |
+| Datos específicos | 1. UserID 2. ProductID 3. OfferID 4. Notification content                                         |
+| Importancia       | Very important                                                                                    |
+| Estado            | Accepted                                                                                          |
+| Comentarios       | ---                                                                                               |
 
 
 | Nombre            | Deleting the offer                                                                                         |
