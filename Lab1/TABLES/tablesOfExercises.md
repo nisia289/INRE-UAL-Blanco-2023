@@ -328,14 +328,16 @@
 
 ![Scenario3](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/IMAGES/newHotel.png)
 
-
-| Nombre            | Consult Reservations in Hotel Reservation System                                                           |                                                        |-------------------|------------------------------------------------------------------------------------------------------------|
-| Autor             | Anita Jurkowska                                                                                            |                                                        | Fecha             | 4.10.2023                                                                                                  |                                                        
-| Descripción       | The system should allow the manager and the commercial to consult reservations.                            |                                                        | Actores           | Commercial / Manager                                                                                       |                                                        | Precondiciones    | Commercial and manager must be registered in a system                                                      |
-| Flujo Normal      | 1. Manager or Commercial select "Consult Reservations" option 2. System displays a list of reservations.         
-                                    |                                                        
-| Flujo Alternativo | None                                                                                                       |                                          
-| Poscondiciones    | None                                                                                                       |
+| Nombre            | Consult Reservations in Hotel Reservation System                                                           |
+|-------------------|------------------------------------------------------------------------------------------------------------|
+| Autor             | Anita Jurkowska                                                                                            |
+| Fecha             | 4.10.2023                                                                                                  |
+| Descripción       | The system should allow the manager and the commercial to consult reservations                             |
+| Actores           | Commercial / Manager                                                                                       |
+| Precondiciones    | Commercial and manager must be registered in a system                                                      |
+| Flujo Normal      |1. Manager or Commercial select "Consult Reservations" option 2. System displays a list of reservations.    |
+| Flujo Alternativo | ----                                                                                                       |
+| Poscondiciones    | ----                                                                                                       |
 
 
 | Nombre            | Manage New Reservations                                                                                    |
