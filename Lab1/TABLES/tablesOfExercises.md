@@ -420,8 +420,9 @@
 | Descripción       | The system should allow Customers, Administrators, and Commercial to check availability.                   |
 | Actores           | Customers, Administrator, Commercial                                                                       |
 | Precondiciones    | None                                                                                                       |
-| Flujo Normal      | 1. Actor selects "Check Availability." 2. The system provides a search interface. 3. Actor enters search criteria, such as date, room type, and number of guests.
-4. The system searches for available options based on the criteria. 5. The system displays search results. |
+| Flujo Normal      | 1. Actor selects "Check Availability." 2. The system provides a search interface. 3. Actor enters search   |
+|FluNorm continuado | criteria, such as date, room type, and number of guests. 4. The system searches for available options      |
+|FluNorm continuado | based on the criteria. 5. The system displays search results.                                              |
 | Flujo Alternativo | None                                                                                                       |
 | Poscondiciones    | 1. For Availability Queries, the system presents search results based on the provided criteria, showing available options. 2.For Booking Queries, the system provides information about available offers. 3.The results are displayed to the actor.                                           |
 
