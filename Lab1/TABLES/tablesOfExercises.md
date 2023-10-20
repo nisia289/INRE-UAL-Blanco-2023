@@ -359,8 +359,8 @@
 | Descripción       | The system should enable the Commercial and Administrator to make offers, involving price recalculation and optional temporary blocking of reservations.                                                                           |
 | Actores           | Commercial / Administrator                                                                                 |
 | Precondiciones    | Commercial and administrator must be registered in a system.                                               |
-| Flujo Normal      | 1. Commercial or Administrator selects "Make Offers." 2. System calculates new prices. 3. He may optionally block a reservation. 4. He creates and submits offers. 
- |
+| Flujo Normal      | 1. Commercial or Administrator selects "Make Offers." 2. System calculates new prices. 
+3. He may optionally block a reservation. 4. He creates and submits offers.                                                      | 
 | Flujo Alternativo | If Commercial/Administrator blocks a reservation, the reservation remains temporarily blocked.             |                                       
 | Poscondiciones    | None                                                                                                       |
 
