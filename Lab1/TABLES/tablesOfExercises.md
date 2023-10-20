@@ -1,4 +1,3 @@
-
 **Scenario 1: Timetables**
 
 ![image](https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/146172835/8b1ba024-d3de-43d1-834b-3aa70b4e56bd)
@@ -74,7 +73,7 @@
 | Poscondiciones    | The student has been registered                                                                                                                                                                                                           |
 
 
-| INF-01            | Register Students                                                                    |
+| INF-02            | Register Students                                                                    |
 |-------------------|--------------------------------------------------------------------------------------|
 | Versión           | 1.0 (Octubre 2023)                                                                   |
 | Autores           | Karolina Malik                                                                       |
@@ -97,7 +96,7 @@
 | Flujo Alternatico | 6. If the system detects conflicts or errors in the proposed schedule modifications, it notifies the PAS staff.                     |
 | Poscondiciones    | The schedule has been modified.                                                                                                                                                                                                           |
 
-| INF-01            | Modify Schedule                                                                                   |
+| INF-03            | Modify Schedule                                                                                   |
 |-------------------|---------------------------------------------------------------------------------------------------|
 | Versión           | 1.0 (Octubre 2023)                                                                                |
 | Autores           | Emilia Sobolewska                                                                                 |
@@ -241,7 +240,7 @@
 
 
 
-| INF-03            | Notifycating the offer or product                                                                 |
+| INF-03            | Notificating the offer or product                                                                 |
 |-------------------|---------------------------------------------------------------------------------------------------|
 | Versión           | 1.0 (Octubre 2023)                                                                                |
 | Autores           | Maciej Ignatowicz                                                                                 |
@@ -265,7 +264,7 @@
 | Flujo Alternativo | 2.If supplier does not have access to offer, he can’t delete it                                            |
 | Poscondiciones    | Offer is deleted from the system                                                                           |
 
-| Nombre            | Notifycating of new products                                                                               |
+| Nombre            | Notificating of new products                                                                               |
 |-------------------|------------------------------------------------------------------------------------------------------------|
 | Autor             | Maciej Ignatowicz                                                                                          |
 | Fecha             | 09.10.2023                                                                                                 |
