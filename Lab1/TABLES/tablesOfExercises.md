@@ -450,8 +450,8 @@
 | Fuentes           | Rooms' availability list                                             |
 | Referencias       | ----                                                                 |
 | Descripción       | The system allows for checking availability of the hotel rooms.      |
-| Datos específicos | 1.            |
-|                   | 2.                                         |
+| Datos específicos | 1.                                                                   |
+|                   | 2.                                                                   |
 | Importancia       | Very important                                                       |
 | Estado            | Accepted                                                             |
 | Comentarios       | Commercial, Administrator and Customers are allowed to check         |
@@ -464,10 +464,10 @@
 | Fecha             | 09.10.2023                                                                                                 |
 | Descripción       | The system should allow Customers, Administrators, and Commercial to view offers.                          |
 | Actores           | Customers, Administrators, Commercial                                                                      |
-| Precondiciones    |              idk                                                                                           |
-| Flujo Normal      | 1. Actor selects "View Offers" 2. The system displays offers.                                              |                                          
-| Flujo Alternativo | …                                                                                                          |
-| Poscondiciones    |                                                                                                            |
+| Precondiciones    | None                                                                                                       |
+| Flujo Normal      | 1. Actor selects "View Offers" 2. The system displays offers.                                              |                                        
+| Flujo Alternativo | None                                                                                                       |
+| Poscondiciones    | None                                                                                                       |
 
 
 | INF-03            | Make and view offers                                                 |
