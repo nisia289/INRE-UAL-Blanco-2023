@@ -443,6 +443,20 @@
 | Flujo Alternativo | None                                                                                                       |
 | Poscondiciones    | 1. For Availability Queries, the system presents search results based on the provided criteria, showing available options. 2.For Booking Queries, the system provides information about available offers. 3.The results are displayed to the actor.                                           |
 
+| INF-02            | Check Availability                                                   |
+|-------------------|----------------------------------------------------------------------|
+| Versión           | 1.0 (Octubre 2023)                                                   |
+| Autores           | Anita Jurkowska                                                      |
+| Fuentes           | Rooms' availability list                                             |
+| Referencias       | ----                                                                 |
+| Descripción       | The system allows for checking availability of the hotel rooms.      |
+| Datos específicos | 1.            |
+|                   | 2.                                         |
+| Importancia       | Very important                                                       |
+| Estado            | Accepted                                                             |
+| Comentarios       | Commercial, Administrator and Customers are allowed to check         |
+|                   | availability of the hotel rooms.                                     |
+
 
 | Nombre            |  View Offers                                                                                               |
 |-------------------|------------------------------------------------------------------------------------------------------------|
@@ -456,7 +470,7 @@
 | Poscondiciones    |                                                                                                            |
 
 
-| INF-02            | Make and view offers                                                 |
+| INF-03            | Make and view offers                                                 |
 |-------------------|----------------------------------------------------------------------|
 | Versión           | 1.0 (Octubre 2023)                                                   |
 | Autores           | Anita Jurkowska                                                      |
