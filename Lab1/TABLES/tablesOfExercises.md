@@ -378,6 +378,21 @@
 | Flujo Alternativo | None                                                                                                       |
 | Poscondiciones    | None                                                                                                       |
 
+| INF-01            | Manage new reservations and new requests                             |
+|-------------------|----------------------------------------------------------------------|
+| Versión           | 1.0 (Octubre 2023)                                                   |
+| Autores           | Anita Jurkowska                                                      |
+| Fuentes           | Reservations' list, requests' list                                   |
+| Referencias       | ----                                                                 |
+| Descripción       | The system allows for managing new reservations and new requests.    |
+| Datos específicos | 1. Displaying the list with new reservations and new requests.       |
+|                   | 2. Adding new reservations and/or new requests.                      |
+|                   | 3. Deleting past reservations and/or requests.                       |
+| Importancia       | Very important                                                       |
+| Estado            | Accepted                                                             |
+| Comentarios       | Commercial and Administrator are allowed to manage new reservations. |
+|                   | Administrator is allowed to manage new requests.                     |
+
 
 | Nombre            |  Search elements                                                                                           |
 |-------------------|------------------------------------------------------------------------------------------------------------|
@@ -441,11 +456,11 @@
 | Poscondiciones    |                                                                                                            |
 
 
-| INF-01            | Make and view offers                                                 |
+| INF-02            | Make and view offers                                                 |
 |-------------------|----------------------------------------------------------------------|
 | Versión           | 1.0 (Octubre 2023)                                                   |
 | Autores           | Anita Jurkowska                                                      |
-| Fuentes           | Offers                                                               |
+| Fuentes           | Offers' list                                                         |
 | Referencias       | ----                                                                 |
 | Descripción       | The system allows for making and viewing the offers                  |
 | Datos específicos | 1. The types of the hotel rooms with photos of each room.            |
