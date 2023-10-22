@@ -365,6 +365,8 @@
 | Poscondiciones    | None                                                                                                       |
 
 
+
+
 | Nombre            |  Manage New Requests                                                                                       |
 |-------------------|------------------------------------------------------------------------------------------------------------|
 | Autor             | Anita Jurkowska                                                                                            |
@@ -438,6 +440,20 @@
 | Flujo Alternativo | …                                                                                                          |
 | Poscondiciones    |                                                                                                            |
 
+
+| INF-01            | Make and view offers                                                 |
+|-------------------|----------------------------------------------------------------------|
+| Versión           | 1.0 (Octubre 2023)                                                   |
+| Autores           | Anita Jurkowska                                                      |
+| Fuentes           | Offers                                                               |
+| Referencias       | ----                                                                 |
+| Descripción       | The system allows for making and viewing the offers                  |
+| Datos específicos | 1. The types of the hotel rooms with photos of each room.            |
+|                   | 2.The price for each room.                                           |
+| Importancia       | Very important                                                       |
+| Estado            | Accepted                                                             |
+| Comentarios       | Commercial and Administrator are allowed to make the offers,         |
+|                   | Administrator and Customers are allowed to view the offers.          |
 
 
 | Nombre            |  Display Calendar                                                                                          |
