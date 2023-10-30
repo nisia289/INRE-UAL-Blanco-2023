@@ -1,14 +1,7 @@
 **2.1. Scenario 1: Fire**
 <br>After a fire, on the one hand you need to get information from our insurance company. On the other hand, we may need additional information from the fire department, but only if firefighters were involved during the extinguishment of the fire. When you have all the information, you need to write a consolidated report.
 
-
-
-
-
-
-
-
-
+<br>tutaj diagram do pierwszego
 
 
 
@@ -26,9 +19,11 @@ c.Reject based on accounting information provided by the director
 8.If the finance department rejected it based on the accounting information, it will be You need to go back to step #5
 9.If the finance department approved, the process ends by sending a message to the client process.
 
-
-
+<br>tutaj diagram do drugiego
 
 
 **2.3. Scenario 3: Revised information**
-<br>An employee submits a piece of information to be reviewed. A manager is sent the information for review, who has the power to approve it, or Reject. If approved, the employee receives a notification and the process Culminates. Otherwise, the employee is sent the information for correction. The employee proceeds to make the changes and submit the information back. A notification is then sent to the manager and the process culminates.
+<br>An employee submits a piece of information to be reviewed. A manager is sent the information for review, who has the power to approve it, or Reject. If approved, the employee receives a notification and the process Culminates. Otherwise, the employee is sent the information for correction. The employee proceeds to make the changes and submit the information back. A notification is then sent to the manager and the process 
+culminates.
+
+<br>tutaj  diagram do trzeciego
