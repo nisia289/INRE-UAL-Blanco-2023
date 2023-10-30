@@ -460,8 +460,9 @@
 | Fuentes           | Rooms' availability list                                             |
 | Referencias       | ----                                                                 |
 | Descripción       | The system allows for checking availability of the hotel rooms.      |
-| Datos específicos | 1.                                                                   |
-|                   | 2.                                                                   |
+| Datos específicos | 1. Displaying the list with rooms that are available                 |
+|                   | 2. Adding new reservations and/or new requests.                      |
+|                   | 3. Deleting past reservations and/or requests.                       |
 | Importancia       | Very important                                                       |
 | Estado            | Accepted                                                             |
 | Comentarios       | Commercial, Administrator and Customers are allowed to check         |
