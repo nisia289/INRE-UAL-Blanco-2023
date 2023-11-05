@@ -3,8 +3,6 @@
 
 <br>tutaj diagram do pierwszego
 
-
-
 **2.2. Scenario 2: Approval of funds**
 <br>1.A client process sends a request for a request to be made, and Approval of Funds
 2.An employee's request information is requested and received
