@@ -27,4 +27,4 @@ c.Reject based on accounting information provided by the director
 culminates.
 
 <br>
-![bpmn3](images/bpmn3.png)
+![bpmn3](https://github.com/nisia289/INRE-UAL-Blanco-2023/blob/main/Lab2/images/bpmn3.png)
