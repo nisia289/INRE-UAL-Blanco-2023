@@ -26,4 +26,5 @@ c.Reject based on accounting information provided by the director
 <br>An employee submits a piece of information to be reviewed. A manager is sent the information for review, who has the power to approve it, or Reject. If approved, the employee receives a notification and the process Culminates. Otherwise, the employee is sent the information for correction. The employee proceeds to make the changes and submit the information back. A notification is then sent to the manager and the process 
 culminates.
 
-<br>tutaj  diagram do trzeciego
+<br>
+![bpmn3](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB2/images/bpmn3.png)
