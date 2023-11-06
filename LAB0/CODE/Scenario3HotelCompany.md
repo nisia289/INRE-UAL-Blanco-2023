@@ -35,7 +35,7 @@ rectangle "Hotel Reservation System" {
   SearchElements --> CheckAvailability
   SearchElements --> ViewOffers
   CheckAvailability --> DisplayCalendar
-  MakeOffers ..> TemporaryBlock
+  MakeOffers --[optional] TemporaryBlock
   MakeOffers ..> RecalculatePrices
 }
 @enduml
