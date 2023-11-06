@@ -20,7 +20,7 @@ However, the functionality of registering students of the PDI, In addition to ve
 **Scenario 3: Hotel company** 
 <br>In a hotel company, the manager and the commercial can consult reservations. The Commercial makes offers and manages new reservations. The administrator manages new requests and also makes offers. The making of offers by the commercial It involves a recalculation of prices. In addition, such making offers entails optionally the temporary blocking of a reservation. Customers, administrators and Commercial can check availability and view offers. The consultation of Availabilities and booking queries have the common functionality of searching elements. On the other hand, the availability query entails a functionality that displays a calendar.
 
-![Scenario3](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/IMAGES/newHotel.png)
+![Scenario3](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/IMAGES/Hotel.png)
 
 
 
