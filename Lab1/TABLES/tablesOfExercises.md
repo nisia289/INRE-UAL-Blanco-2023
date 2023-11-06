@@ -370,8 +370,8 @@
 | Actores           | Commercial / Administrator                                                                                 |
 | Precondiciones    | Commercial and administrator must be registered in a system.                                               |
 | Flujo Normal      | 1. Commercial or Administrator selects "Make Offers." 2. System calculates new prices.                     |
-|FlujoNorm continua | 3. He may optionally block a reservation. 4. He creates and submits offers.                                | 
-| Flujo Alternativo | If Commercial/Administrator blocks a reservation, the reservation remains temporarily blocked.             |                                       
+|FlujoNorm continua | 3. The user creates and submits offers.                                                                    | 
+| Flujo Alternativo | 2. The user may optionally block a reservation - if it happens, the reservation remains temporarily blocked|                                       
 | Poscondiciones    | None                                                                                                       |
 
 
