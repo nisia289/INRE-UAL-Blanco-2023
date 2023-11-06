@@ -336,7 +336,7 @@
 
 **Scenario 3: Hotel Company**
 
-![Scenario3](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/IMAGES/newHotel.png)
+![Scenario3](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/IMAGES/3Hotel.png)
 
 | Nombre            | Consult Reservations in Hotel Reservation System                                                           |
 |-------------------|------------------------------------------------------------------------------------------------------------|
