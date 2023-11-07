@@ -125,7 +125,11 @@
 
 **Scenario 2: Purchasing System**
 
+
 <img width="719" alt="ex4" src="https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/81264277/cccfd6e5-59c0-45b2-88ba-a4a3bcb0d110">
+<img width="858" alt="Zrzut ekranu 2023-11-7 o 19 15 15" src="https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/81264277/70c24fd9-43bb-495a-b2a0-9fdb438841e7">
+
+
 
 | Nombre            | Adding product to a basket in purchasing system                                                                                                                                                                                          |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
