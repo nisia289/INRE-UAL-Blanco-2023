@@ -1,6 +1,8 @@
 **Scenario 1: Timetables**
 
 ![image](https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/146172835/8b1ba024-d3de-43d1-834b-3aa70b4e56bd)
+<img width="886" alt="Zrzut ekranu 2023-11-7 o 18 54 12" src="https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/81264277/8a358f64-921e-476a-aa97-3f3cd6a94e71">
+
 
 | Nombre            | Check Schedules                                                                                                                                                                                                                          |
 |-------------------|--------------------------------------------------------------------------------------|
