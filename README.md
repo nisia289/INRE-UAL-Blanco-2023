@@ -6,5 +6,7 @@
 4. Anita Jurkowska - nitajurkowska@gmail.com
      
 Lab0: https://github.com/nisia289/INRE-UAL-Blanco-2023/tree/main/LAB0
+
 Lab1: https://github.com/nisia289/INRE-UAL-Blanco-2023/tree/main/Lab1/TABLES
+
 Lab2: https://github.com/nisia289/INRE-UAL-Blanco-2023/tree/main/Lab2
