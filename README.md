@@ -5,9 +5,9 @@
 3. Maciej Ignatowicz - maciek.ignatowicz@outlook.com
 4. Anita Jurkowska - nitajurkowska@gmail.com
      
-Lab0: https://github.com/nisia289/INRE-UAL-Blanco-2023/tree/main/LAB0
+Lab0 - "Familiarización con MarkDown-Mermaid-PlantUML": https://github.com/nisia289/INRE-UAL-Blanco-2023/tree/main/LAB0
 
-Lab1: https://github.com/nisia289/INRE-UAL-Blanco-2023/tree/main/Lab1/TABLES/tablesOfExercises.md
+Lab1 - "Definición de casos de uso y requisitos de información": https://github.com/nisia289/INRE-UAL-Blanco-2023/tree/main/Lab1/TABLES/tablesOfExercises.md
 
-Lab2: https://github.com/nisia289/INRE-UAL-Blanco-2023/tree/main/Lab2
+Lab2 - "BPMN": https://github.com/nisia289/INRE-UAL-Blanco-2023/tree/main/Lab2
 
