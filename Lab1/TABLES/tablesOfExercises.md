@@ -335,6 +335,8 @@
 </br>
 
 ![Scenario3](https://github.com/nisia289/INRE-UAL-Blanco-2023/blob/main/LAB0/correctScenario3.png)
+</br>
+![Scenario3database](https://github.com/nisia289/INRE-UAL-Blanco-2023/blob/main/Lab1/TABLES/Scenario3database.png)
 
 | Nombre            | Consult Reservations in Hotel Reservation System                                                           |
 |-------------------|------------------------------------------------------------------------------------------------------------|
