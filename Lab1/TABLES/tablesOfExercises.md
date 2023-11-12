@@ -334,7 +334,7 @@
 </br>In a hotel company, the manager and the salesperson can consult reservations. The Salesperson: Make offers and manage new bookings. The administrator manages new requests and also makes offers. Making offers by the salesperson It involves a recalculation of prices. In addition, such bidding entails optionally the temporary blocking of a booking. Customers, administrators and Salespeople can check availability and view offers. The consultation of Availabilities and booking consultation have the common functionality of searching elements. On the other hand, the query of availabilities entails a functionality that Displays a calendar.
 </br>
 
-![Scenario3](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/IMAGES/3Hotel.png)
+![Scenario3](https://github.com/nisia289/INRE-UAL-Blanco-2023/blob/main/LAB0/correctScenario3.png)
 
 | Nombre            | Consult Reservations in Hotel Reservation System                                                           |
 |-------------------|------------------------------------------------------------------------------------------------------------|
@@ -371,8 +371,6 @@
 |FlujoNorm continua | 3. The user creates and submits offers.                                                                    | 
 | Flujo Alternativo | 2. The user may optionally block a reservation - if it happens, the reservation remains temporarily blocked|                                       
 | Poscondiciones    | None                                                                                                       |
-
-
 
 
 | Nombre            |  Manage New Requests                                                                                       |
