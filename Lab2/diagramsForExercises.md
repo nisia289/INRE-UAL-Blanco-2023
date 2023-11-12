@@ -1,7 +1,7 @@
 **2.1. Scenario 1: Fire**
 <br>After a fire, on the one hand you need to get information from our insurance company. On the other hand, we may need additional information from the fire department, but only if firefighters were involved during the extinguishment of the fire. When you have all the information, you need to write a consolidated report.
 
-<br>tutaj diagram do pierwszego
+![2.1 Scenario 1: Fire](https://github.com/nisia289/INRE-UAL-Blanco-2023/blob/main/Lab2/lab2fire.png)
 
 **2.2. Scenario 2: Approval of funds**
 <br>1.A client process sends a request for a request to be made, and Approval of Funds
