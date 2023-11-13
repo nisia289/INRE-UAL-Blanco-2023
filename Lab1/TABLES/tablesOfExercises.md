@@ -4,7 +4,8 @@
 
 ![image](https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/146172835/a406cb6a-5d86-4003-b912-39f1c2e007d4)
 
-<img width="886" alt="Zrzut ekranu 2023-11-7 o 18 54 12" src="https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/81264277/8a358f64-921e-476a-aa97-3f3cd6a94e71">
+![image](https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/146172835/c4a879a0-58dc-4045-9c53-efa3e7a0836f)
+
 
 
 | Nombre            | Check Schedules                                                                                                                                                                                                                          |
