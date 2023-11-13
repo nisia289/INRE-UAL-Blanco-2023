@@ -132,7 +132,8 @@
 
 ![image](https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/146172835/4a3d7dd5-9be1-4dcf-9598-dcfee10ecabf)
 
-<img width="858" alt="Zrzut ekranu 2023-11-7 o 19 15 15" src="https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/81264277/70c24fd9-43bb-495a-b2a0-9fdb438841e7">
+![image](https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/146172835/b59ebcdf-1855-4ac2-8666-40e965c0df8c)
+
 
 
 
