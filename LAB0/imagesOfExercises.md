@@ -31,7 +31,7 @@ However, the functionality of registering students of the PDI, In addition to ve
 **Scenario 4: Online photography** 
 <br>In an online photography application, customers can view the photos, where they can Exceptionally, a complaint can be made about the photo. When you report a photo, It must provide an explanation of the complaint. Customers can also bring to Carry out consultations on the photos, operation that is a particular case of viewing the photos. Photo controllers may indicate that a photo should be reviewed. This Functionality is a general case of photo report functionality. In addition, the Controllers can also edit photo information. In this application also Seller-type users participate. Sellers can write to customers for make them offers about the products of the application. Exceptionally, when making a Offers can reduce the price of a product. Sellers can also search details in the photos, operation that is a particular case of viewing photos. But that Search involves verification of the data entered. On the other hand, the managers of The app can view offers, block offers, issue invoices and edit invoices. The Issuing invoices requires the involvement of an invoicing software. The administrator from the store you can view offers, issue invoices, edit invoices, block offers, create users and edit users. This functionality of viewing offers can also be performed by clients. Editing users has features in common with editing invoices. Create users It involves sending an email in which the use of a mail manager is necessary.
 
-![image](https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/146172835/bdaa0bdd-7132-499b-b962-eca6e4bbe658)
+
 
 
 
