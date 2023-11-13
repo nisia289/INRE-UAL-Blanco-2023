@@ -17,7 +17,7 @@ c.Reject based on accounting information provided by the director
 8.If the finance department rejected it based on the accounting information, it will be You need to go back to step #5
 9.If the finance department approved, the process ends by sending a message to the client process.
 
-<br>tutaj diagram do drugiego
+![Request employee application information](https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/81264277/6143dff7-cb5f-4451-9663-67202c8921b9)
 
 
 **2.3. Scenario 3: Revised information**
