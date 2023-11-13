@@ -14,7 +14,7 @@ However, the functionality of registering students of the PDI, In addition to ve
 
 
 
-<img width="719" alt="ex4" src="https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/81264277/cccfd6e5-59c0-45b2-88ba-a4a3bcb0d110">
+![image](https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/146172835/a36a5f80-aa53-4038-b426-b9fbc98ca439)
 
 
 
