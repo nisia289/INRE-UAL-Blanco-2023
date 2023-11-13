@@ -3,7 +3,8 @@
 PDI staff can propose changes in schedules and register students. The functionality of registering students of the PAS performs a verification of the student's data. 
 However, the functionality of registering students of the PDI, In addition to verifying the data, it also allows exceptionally to perform the search in the class lists of their subjects.
 
-![image](https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/146172835/7d5f6bec-6946-457d-8f0b-fe445dd7382f)
+![image](https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/146172835/b419ff5f-206d-4ceb-b542-8543c2783911)
+
 
 
 
