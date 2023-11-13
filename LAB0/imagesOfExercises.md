@@ -38,7 +38,7 @@ However, the functionality of registering students of the PDI, In addition to ve
 **Scenario 5: Incident Management** 
 <br>In an incident management system, technicians and operators can register incidents, for which, exceptionally an email will be sent (in this operation A mail management system participates). Technicians also take calls telephone and make reports on incidents. For their part, operators attend Phone calls, mark incidents as duplicates and sort incidents. The form Taking calls from technicians and operators is not exactly the same, but it has Similarities. Specifically, when technicians take calls, they check data of the impact on the system. When operators take calls, they enter New incident data. System administrators manage categories of incidents, consult incidents and order incidents. Ordination by Administrators involves the addition of a comment. Technicians and operators They can also check incidents. The consultation of incidents by technicians, Operators and administrators may involve, exceptionally, the editing of the Incident data. Guest users can also view issues, but without the possible editing of the data. In addition, guests inform about possible incidents, can be registered to see notifications and can access a list of History of notifications. The report of possible incidents entails the registration of the location on a map, the incorporation of a complete explanation in textual format and uploading a photo.
 
-![Scenario5](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/IMAGES/diagram5.png)
+![Scenario5](https://github.com/nisia289/INRE-UAL--Blanco---2023-/blob/main/LAB0/diagram5.png)
 
 
 
