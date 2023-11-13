@@ -2,7 +2,8 @@
 
 </br>At a university, teaching and research staff, administrative and service staff and students can Check schedules. On the other hand, PAS staff can modify schedules and register students. PDI staff can propose changes to schedules and register students. The functionality to register students from the administrative and service staff performs a verification of the student's data. However, the functionality of registering students of the teaching and research staff, In addition to verifying the data, it also allows you to carry out the search in an exceptional way in the class lists of their subjects.</br>
 
-![image](https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/146172835/8b1ba024-d3de-43d1-834b-3aa70b4e56bd)
+![image](https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/146172835/a406cb6a-5d86-4003-b912-39f1c2e007d4)
+
 <img width="886" alt="Zrzut ekranu 2023-11-7 o 18 54 12" src="https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/81264277/8a358f64-921e-476a-aa97-3f3cd6a94e71">
 
 
