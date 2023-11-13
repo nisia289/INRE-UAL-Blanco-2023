@@ -129,7 +129,8 @@
 </br>In a buying system, there are four types of users: buyer, seller, Provider and administrator. Buyers can add products, check prices, Finalize the purchase and check offers. Adding products involves marking those products as blocked. Sellers can also check offers and check prices. Suppliers can check prices, notify of new products, and check offers. To notify of new products, exceptionally, it makes the incorporation of an offer. Suppliers also have a functionality to notify the end of an offer. When When an offer is announced, the deleting functionality is executed. Both The provider's notification functionalities have in common that it is responsible for sending a notification. Admins can view prices, view offers, and delete products. The price check functionality includes a search functionality products that is similar to the functionality of checking out buyers' products. Without However, the query products functionality adds a functionality to verify the availability. To make a sale, a buyer and a seller participate in a joint. In such an operation, a price agreement is carried out; exceptionally During the sale, the sales history will be consulted.
 </br>
 
-<img width="719" alt="ex4" src="https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/81264277/cccfd6e5-59c0-45b2-88ba-a4a3bcb0d110">
+![image](https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/146172835/4a3d7dd5-9be1-4dcf-9598-dcfee10ecabf)
+
 <img width="858" alt="Zrzut ekranu 2023-11-7 o 19 15 15" src="https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/81264277/70c24fd9-43bb-495a-b2a0-9fdb438841e7">
 
 
