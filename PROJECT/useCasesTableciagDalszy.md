@@ -15,17 +15,3 @@
 
 
 
-
-|RF-03   |Show activity on cartography screen   |
-|--------|------------------------------------|
-|Version   |1.0   |
-|Autores   |Anita Jurkowska, Maciej Ignatowicz, Karolina Malik, Emilia Sobolewska   |
-|Sources   |Project documentation   |
-|Associated objectives   | OBJ-1  |
-|Associated requirements   | RF-01(Information System)  |
-|Description   |The system should display the activity of operators on the cartography screen. It should also allow the recording of specific situations using photos and continuous periods using movies.   |
-|Importance   |Important   |
-|Urgency   |   |
-|State   |   |
-|Stability   |   |
-|Comments   |This RF-03 involves visual representation of operator activities and the ability to record states with media.   |
