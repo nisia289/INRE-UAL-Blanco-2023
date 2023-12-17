@@ -323,3 +323,64 @@ This document contains documentation related to the project carried out by the B
 | Description			| The system mjst integrate seamlessly with external APIs to enhance funcionality and t=data exchange.		|
 | Importance		|		|
 | Comentarios			| 		|
+
+### 4.1.2 Information system
+
+
+<br>
+
+| RF-01				|Processing of cartographic data |
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	OBJ-1	|
+| Associated requirements	|		|
+| Description			| 	The system must contain cartographic data on the public transport network in Gran Canaria and have the toold to process it in order to effecrively apply this information on the user portal.	|
+| Importance		|	Very important	|
+| Comentarios			| 		|
+
+| RF-02				| Determining the most efficient travel route |
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	OBJ-1	|
+| Associated requirements	|	RF-01	|
+| Description			| Based on the data provided, the system should be able to determine the most efficient route between selected stops.		|
+| Importance		|	Very important	|
+| Comentarios			| In case of failure of this functionality, it is recommended to add several fixed routes to the destination and information about possible changes in travel times.	|
+
+| RF-03				| Detecting impassable roads and creating alternative routes |
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	OBJ-1	|
+| Associated requirements	|	RF-01, RF-02	|
+| Description			| The system should be able to create an alternative, most effective route in accordance with Rf-2 in the event of detecting the inability to communicative via the standard route.		|
+| Importance		|	Very important	|
+| Comentarios			| Alternative route is made with the same algorithms used in RF-02, but with different starting parameters.	|
+
+| RF-04				| Calculating the distance between stops and the total trip distance |
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	OBJ-1|
+| Associated requirements	|	RF-01, RF-02	|
+| Description			| 	The system must calculate the distance between every two stops depending on the selected route and the total distance of the selected trip.	|
+| Importance		|	Very important	|
+| Comentarios			| System should calculate every distances to keep them for calculating the most efficient route. The distances visible to the user should only be the distances of the most efficient routes.		|
+
+| RF-05				| Transfers |
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	OBJ-1	|
+| Associated requirements	|	RF-01, RF-02	|
+| Description			| The system should be able to create transfers if it is not possible to create a direct route between the starting and ending stops.		|
+| Importance		| Very important		|
+| Comentarios			| System should calculate every disstance to keep them for calculating the most efficient route. The distances visible to the user should only be the distances of the most efficient routes.		|
+
