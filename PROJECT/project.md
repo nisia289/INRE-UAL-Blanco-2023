@@ -161,3 +161,22 @@ This document contains documentation related to the project carried out by the B
 <br>
 - Locating interesting places 
 <br>
+
+## 4.1. Requistos.
+
+<br>
+
+### 4.1.1 User Portal.
+
+<br>
+
+| RF-01					| Content managemnet	|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	OBJ-3	|
+| Associated requirements	|		|
+| Description			|Interactive Information System (SIIT) must have a system responsible for managing the content in the interactive system	|
+| Importance		|Very important|
+| Comentarios			| 		|
