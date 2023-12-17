@@ -180,3 +180,146 @@ This document contains documentation related to the project carried out by the B
 | Description			|Interactive Information System (SIIT) must have a system responsible for managing the content in the interactive system	|
 | Importance		|Very important|
 | Comentarios			| 		|
+
+| RF-02				| Simple way to insert content	|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	OBJ-3	|
+| Associated requirements	|	RF-01	|
+| Description			| 	The system should have options for inserting contnet into the website in a simple way to facilitate content management for people who have no programming knowladge	|
+| Importance		|	Important	|
+| Comentarios			| The view of inserted content should be the same for administrator and users.		|
+
+| RF-03				| Various options for modifying content|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	OBJ-3	|
+| Associated requirements	|	RF_01	|
+| Description			| The administrator should be able to edit, add or delete content on the website.		|
+| Importance		|	Very important	|
+| Comentarios			| The view of modified content should be the same for administrator and users		|
+
+| RF-04				| Access to statistics	|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	OBJ-3	|
+| Associated requirements	|		|
+| Description			| The content manager should have access to the necessary statistical information collected in the system.		|
+| Importance		|	Very important	|
+| Comentarios			| 		|
+
+| RF-05				| Search engine	|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	OBJ-3	|
+| Associated requirements	|	RF-01	|
+| Description			| The system must have a search engine that allows you to search for content by keywords		|
+| Importance		|	Important	|
+| Comentarios			| 		|
+
+| RF-06				| Data security	|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	OBJ-3	|
+| Associated requirements	|	RF-01	|
+| Description			| 	The system must ensure a high level of data security, both in terms of access and storage.	|
+| Importance		|	Very important	|
+| Comentarios			| 		|
+
+| RF-07				| Integration of external multimedia resources	|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	OBJ-3	|
+| Associated requirements	|	RF-01	|
+| Description			| 	The system should allow the integration of external multimedia resources, such as images, videos, or audio files.	|
+| Importance		|	Not importnat	|
+| Comentarios			| 		|
+
+| RF-08				| Mobile responsivness|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	OBJ-3	|
+| Associated requirements	|	RF-01	|
+| Description			| The system should be responsive and optimized for a seamless user experience on mobile devices.		|
+| Importance		|	Very important	|
+| Comentarios			| 		|
+
+| RF-09				| Social media integration	|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	OBJ-3	|
+| Associated requirements	|	RF-01	|
+| Description			| 	The system should integrate with social media platforms for content sharing and engagement.	|
+| Importance		|		|
+| Comentarios			| 		|
+
+| RF-10				|Multilingual support  |
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	OBJ-3	|
+| Associated requirements	|	RF-01	|
+| Description			| 	The system must support multiple lenguages to adjust to a diverse user base.	|
+| Importance		|		|
+| Comentarios			| 		|
+
+| RF-11				| Real-time collaboration features|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	OBJ-3	|
+| Associated requirements	|	RF-01	|
+| Description			| The system should provide reak-time collabrotaion features for efficient communication and information exchange		|
+| Importance		|		|
+| Comentarios			| 		|
+
+| RF-12				| Automated backup system |
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	OBJ-3	|
+| Associated requirements	|	RF-01	|
+| Description			| Thye system must have an automated backup system to prevent data loss and ensure data integrity.	|
+| Importance		|	Very important	|
+| Comentarios			| 		|
+
+| RF-13				| User training and documentation|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	| OBJ-3		|
+| Associated requirements	|	Rf-01	|
+| Description			| 	The system should provide comprehensive user training and documentation to facilitate effective usage.	|
+| Importance		|		|
+| Comentarios			| 		|
+
+| RF-14				| Integration with external APIs |
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	OBJ-3	|
+| Associated requirements	|		RF-01|
+| Description			| The system mjst integrate seamlessly with external APIs to enhance funcionality and t=data exchange.		|
+| Importance		|		|
+| Comentarios			| 		|
