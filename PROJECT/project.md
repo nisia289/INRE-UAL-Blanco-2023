@@ -646,9 +646,9 @@ This document contains documentation related to the project carried out by the B
 <br>
 
 #### DCU-03: Diagram of SMET 
-<br>
+
 ![SMETpoprawiony](https://github.com/nisia289/INRE-UAL-Blanco-2023/blob/main/PROJECT/SMETpoprawiony.png)
-<br>
+
 
 
 
