@@ -384,6 +384,126 @@ This document contains documentation related to the project carried out by the B
 | Importance		| Very important		|
 | Comentarios			| System should calculate every disstance to keep them for calculating the most efficient route. The distances visible to the user should only be the distances of the most efficient routes.		|
 
+| RF-06					| Traffic control	|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|OBJ-2	|
+| Associated requirements	|	RF-02	|
+| Description			|The system hsould have access to real-time data including traffic information and other problems on the road.	|
+| Importance		|Important|
+| Comentarios			| 		|
+
+| RF-07					| Time efficency	|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|OBJ-2	|
+| Associated requirements	|	RF-06	|
+| Description			| Based on the real-time traffic data, the system should be able to show the most time0efficient routes for the user.	|
+| Importance		|Very important|
+| Comentarios			| 		|
+
+| RF-08					| Select Origin on the Map	|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	|
+| Associated requirements	|		|
+| Description			|	Users can enter an origin on the map form which to calculate routes.|
+| Importance		|Medium|
+| Comentarios			| This function makes the search more user-friendly, especially when the user doesn't know the exact address of where they are.		|
+
+| RF-09					| Display Transport Schedules	|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	|
+| Associated requirements	|	RF-02	|
+| Description			|The system will display the transport schedules associated with the calculated route. Indicating the frequency of the service.	|
+| Importance		|Low|
+| Comentarios			| This helps avoid a second search in case the user is late for the first transfer.	|
+
+| RF-10					| Preference Criteria	|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	|
+| Associated requirements	|		|
+| Description			|The system allows users to select preference criteria, such as minimizing time, cost, or transfers when calculating the itinerary solition.	|
+| Importance		|Important|
+| Comentarios			| 	This option makes the user's experience more customisable	|
+
+| RF-11					| Display Real-time Vehicle Information	|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	|
+| Associated requirements	|	RF-06	|
+| Description			|The system will show real-time information about vehicle locations, helping users track the progress of their selected transportation.	|
+| Importance		|Low|
+| Comentarios			| 		|
+
+| RF-12					| Integrate Payment Options	|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	|
+| Associated requirements	|		|
+| Description			|The system will integrate payment options to calculate accurate fare information based on the user's selected payment method.	|
+| Importance		|Important|
+| Comentarios			| For example: buying a paper ticket will be more expensive thanbuying an electronic one.		|
+
+| RF-13					| Multi Language Support|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	|
+| Associated requirements	|		|
+| Description			|The system should offer an option to change the language within the app	|
+| Importance		|Important|
+| Comentarios			| Gran Canaria is a touristic place, so the app should be available to people speaking many different laguages.		|
+
+| RF-14					| Implement Route History Tracking	|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	|
+| Associated requirements	|		|
+| Description			|The system will track and display the user's route history, allowing to view and re-enter their past travel patterns.	|
+| Importance		|Medium|
+| Comentarios			| 		|
+
+| RF-15					| Allow User Feedback	|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	|
+| Associated requirements	|		|
+| Description			|The system will enable users to provide feedback and ratings on transportation services, contributing to the improvement nof iverall service quality.	|
+| Importance		|Important|
+| Comentarios			| 		|
+
+| RF-16					| Provide information on Bicycle Accessibility	|
+| :---					| :----  	|
+| Version				| 1.0	|
+| Authors				| Maciej Ignatowicz, Anita Jurkowska, Karolina Malik, Emilia Sobolewska		|
+| Sources			| Project documentation		|
+| Associated objectives	|	|
+| Associated requirements	|		|
+| Description			|The system will offer information on bicycloe accessibility details about bike-sharing services.	|
+| Importance		|Low|
+| Comentarios			| 		|
 ### SMET 
 
 
