@@ -647,8 +647,9 @@ This document contains documentation related to the project carried out by the B
 
 #### DCU-03: Diagram of SMET 
 <br> 
-<img width="560" alt="Screenshot 2023-12-18 at 10 46 22" src="https://github.com/nisia289/INRE-UAL-Blanco-2023/assets/81264277/56da9b67-a4c5-41f9-aa09-849128a99b66">
+![Scenario3database](https://github.com/nisia289/INRE-UAL-Blanco-2023/blob/main/PROJECT/SMETpoprawiony.png)
 <br>
+
 
 ### 4.2.3. Lista general de casos de uso  y actores del proyecto.
 
